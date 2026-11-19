@@ -15,6 +15,8 @@ invalid is ever offered or published**. The repository contains two complete ver
 | [`pipeline/`](pipeline/) | **Fixed pipeline** | Every request goes through the same stages: read into a fixed set of intents → policy check → solver repair → grounded negotiation → human approval |
 | [`agentic/`](agentic/) | **Tool-calling agent** | One LLM loop handles the whole request through ~30 typed tools (look up, draft, check with the solver, ask, negotiate, submit), behind a commit gate that re-validates every change |
 
+**📖 Full guide (how everything works + interview prep):** [satyajit2747.github.io/negotiate-then-solve-agentic](https://satyajit2747.github.io/negotiate-then-solve-agentic/) (source: [`docs/index.html`](docs/index.html)).
+
 Both folders are self-contained projects (each has its own `pyproject.toml`, tests, data, notebooks, web app
 and a detailed README). `agentic/` also contains the full pipeline code, which it uses as its baseline.
 
