@@ -1,0 +1,160 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5555 >>
+stream
+BT /F2 13 Tf 40.0 800.0 Td (CSE department \(demo\): Course Offerings, Monsoon 2026) Tj ET
+BT /F1 8.5 Tf 40.0 784.0 Td (L-T-P-C: lecture, tutorial and practical hours per week, and credits. Pr: programme core.) Tj ET
+0.85 0.85 0.85 RG 0.6 w
+40 774.0 m 555 774.0 l S
+BT /F2 9.0 Tf 43.0 762.0 Td (CD) Tj ET
+BT /F2 9.0 Tf 75.0 762.0 Td (Code) Tj ET
+BT /F2 9.0 Tf 145.0 762.0 Td (Course name) Tj ET
+BT /F2 9.0 Tf 383.0 762.0 Td (L-T-P-C) Tj ET
+BT /F2 9.0 Tf 447.0 762.0 Td (Faculty) Tj ET
+40 758.0 m 555 758.0 l S
+0.93 0.93 0.93 rg 40 742.0 515 16.0 re f 0 0 0 rg
+BT /F2 9.0 Tf 43.0 746.0 Td (B.Tech II year I Semester - CSE Section 1 \(55 students\)) Tj ET
+40 742.0 m 555 742.0 l S
+BT /F1 9.0 Tf 43.0 730.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 730.0 Td (CS1.101) Tj ET
+BT /F1 9.0 Tf 145.0 730.0 Td (Data Structures) Tj ET
+BT /F1 9.0 Tf 383.0 730.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 730.0 Td (Dr. Menon) Tj ET
+40 726.0 m 555 726.0 l S
+BT /F1 9.0 Tf 43.0 714.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 714.0 Td (CS1.102) Tj ET
+BT /F1 9.0 Tf 145.0 714.0 Td (Operating Systems) Tj ET
+BT /F1 9.0 Tf 383.0 714.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 714.0 Td (Dr. Pillai) Tj ET
+40 710.0 m 555 710.0 l S
+BT /F1 9.0 Tf 43.0 698.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 698.0 Td (CS1.103) Tj ET
+BT /F1 9.0 Tf 145.0 698.0 Td (Computer Networks) Tj ET
+BT /F1 9.0 Tf 383.0 698.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 698.0 Td (Dr. Das) Tj ET
+40 694.0 m 555 694.0 l S
+BT /F1 9.0 Tf 43.0 682.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 682.0 Td (CS1.104) Tj ET
+BT /F1 9.0 Tf 145.0 682.0 Td (Database Systems) Tj ET
+BT /F1 9.0 Tf 383.0 682.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 682.0 Td (Dr. Gupta) Tj ET
+40 678.0 m 555 678.0 l S
+0.93 0.93 0.93 rg 40 662.0 515 16.0 re f 0 0 0 rg
+BT /F2 9.0 Tf 43.0 666.0 Td (B.Tech II year I Semester - CSE Section 2 \(54 students\)) Tj ET
+40 662.0 m 555 662.0 l S
+BT /F1 9.0 Tf 43.0 650.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 650.0 Td (CS2.101) Tj ET
+BT /F1 9.0 Tf 145.0 650.0 Td (Machine Learning) Tj ET
+BT /F1 9.0 Tf 383.0 650.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 650.0 Td (Dr. Sharma) Tj ET
+40 646.0 m 555 646.0 l S
+BT /F1 9.0 Tf 43.0 634.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 634.0 Td (EC2.102) Tj ET
+BT /F1 9.0 Tf 145.0 634.0 Td (Compiler Design) Tj ET
+BT /F1 9.0 Tf 383.0 634.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 634.0 Td (Dr. Iyer) Tj ET
+40 630.0 m 555 630.0 l S
+BT /F1 9.0 Tf 43.0 618.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 618.0 Td (CS2.103) Tj ET
+BT /F1 9.0 Tf 145.0 618.0 Td (Theory of Computation) Tj ET
+BT /F1 9.0 Tf 383.0 618.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 618.0 Td (Dr. Khan) Tj ET
+40 614.0 m 555 614.0 l S
+BT /F1 9.0 Tf 43.0 602.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 602.0 Td (CS2.104) Tj ET
+BT /F1 9.0 Tf 145.0 602.0 Td (Computer Architecture) Tj ET
+BT /F1 9.0 Tf 383.0 602.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 602.0 Td (Dr. Rao) Tj ET
+40 598.0 m 555 598.0 l S
+0.93 0.93 0.93 rg 40 582.0 515 16.0 re f 0 0 0 rg
+BT /F2 9.0 Tf 43.0 586.0 Td (B.Tech II year I Semester - CSE Section 3 \(55 students\)) Tj ET
+40 582.0 m 555 582.0 l S
+BT /F1 9.0 Tf 43.0 570.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 570.0 Td (CS3.101) Tj ET
+BT /F1 9.0 Tf 145.0 570.0 Td (Software Engineering) Tj ET
+BT /F1 9.0 Tf 383.0 570.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 570.0 Td (Dr. Gupta) Tj ET
+40 566.0 m 555 566.0 l S
+BT /F1 9.0 Tf 43.0 554.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 554.0 Td (CS3.102) Tj ET
+BT /F1 9.0 Tf 145.0 554.0 Td (Discrete Mathematics) Tj ET
+BT /F1 9.0 Tf 383.0 554.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 554.0 Td (Dr. Pillai) Tj ET
+40 550.0 m 555 550.0 l S
+BT /F1 9.0 Tf 43.0 538.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 538.0 Td (EC3.103) Tj ET
+BT /F1 9.0 Tf 145.0 538.0 Td (Digital Logic) Tj ET
+BT /F1 9.0 Tf 383.0 538.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 538.0 Td (Dr. Das) Tj ET
+40 534.0 m 555 534.0 l S
+BT /F1 9.0 Tf 43.0 522.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 522.0 Td (EC3.104) Tj ET
+BT /F1 9.0 Tf 145.0 522.0 Td (Algorithms) Tj ET
+BT /F1 9.0 Tf 383.0 522.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 522.0 Td (Dr. Sharma) Tj ET
+40 518.0 m 555 518.0 l S
+0.93 0.93 0.93 rg 40 502.0 515 16.0 re f 0 0 0 rg
+BT /F2 9.0 Tf 43.0 506.0 Td (B.Tech II year I Semester - CSE Section 4 \(60 students\)) Tj ET
+40 502.0 m 555 502.0 l S
+BT /F1 9.0 Tf 43.0 490.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 490.0 Td (CS4.101) Tj ET
+BT /F1 9.0 Tf 145.0 490.0 Td (Computer Graphics) Tj ET
+BT /F1 9.0 Tf 383.0 490.0 Td (3-0-0-3) Tj ET
+BT /F1 9.0 Tf 447.0 490.0 Td (Dr. Khan) Tj ET
+40 486.0 m 555 486.0 l S
+BT /F1 9.0 Tf 43.0 474.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 474.0 Td (EC4.102) Tj ET
+BT /F1 9.0 Tf 145.0 474.0 Td (Information Security) Tj ET
+BT /F1 9.0 Tf 383.0 474.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 474.0 Td (Dr. Menon) Tj ET
+40 470.0 m 555 470.0 l S
+BT /F1 9.0 Tf 43.0 458.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 458.0 Td (EC4.103) Tj ET
+BT /F1 9.0 Tf 145.0 458.0 Td (Distributed Systems) Tj ET
+BT /F1 9.0 Tf 383.0 458.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 458.0 Td (Dr. Rao) Tj ET
+40 454.0 m 555 454.0 l S
+BT /F1 9.0 Tf 43.0 442.0 Td (Pr) Tj ET
+BT /F1 9.0 Tf 75.0 442.0 Td (EC4.104) Tj ET
+BT /F1 9.0 Tf 145.0 442.0 Td (Artificial Intelligence) Tj ET
+BT /F1 9.0 Tf 383.0 442.0 Td (3-0-2-4) Tj ET
+BT /F1 9.0 Tf 447.0 442.0 Td (Dr. Iyer) Tj ET
+40 438.0 m 555 438.0 l S
+40 774.0 m 40 438.0 l S
+72 774.0 m 72 438.0 l S
+142 774.0 m 142 438.0 l S
+380 774.0 m 380 438.0 l S
+444 774.0 m 444 438.0 l S
+555 774.0 m 555 438.0 l S
+BT /F1 7.5 Tf 40.0 30.0 Td (Page 1. Generated from a demo department of the Negotiate, Then Solve web app; all names are invented.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000005858 00000 n 
+0000005955 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+6057
+%%EOF
